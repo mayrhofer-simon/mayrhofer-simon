@@ -527,8 +527,8 @@
     },
     {
       "date": "2026-10-26",
-      "level": 0,
-      "count": 0
+      "level": 4,
+      "count": 1
     },
     {
       "date": "2025-10-28",
@@ -789,6 +789,11 @@
       "date": "2026-10-20",
       "level": 4,
       "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "level": 0,
+      "count": 0
     },
     {
       "date": "2025-10-29",
@@ -1832,9 +1837,9 @@
     }
   ],
   "stats": {
-    "total": 24,
+    "total": 25,
     "current_streak": 0,
-    "longest_streak": 20,
+    "longest_streak": 21,
     "best_day": {
       "date": "2026-10-25",
       "level": 4,
