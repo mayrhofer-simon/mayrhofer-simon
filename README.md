@@ -5,8 +5,7 @@
 ### `simon@github ~ $`
 
 ```
-simon mayrhofer · design engineer · 0→1
-graz, austria — open for the right collabs
+mayrhofer-simon · graz, austria · open for the right collabs
 ```
 
 <br />
@@ -22,7 +21,7 @@ graz, austria — open for the right collabs
 <table>
   <tr>
     <td valign="top"><img src="./simon-ascii.svg" width="370" alt="Simon Mayrhofer ASCII portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Simon Mayrhofer info card" /></td>
+    <td valign="top"><img src="./simon-info-card.svg" width="490" alt="Simon Mayrhofer info card" /></td>
   </tr>
 </table>
 
@@ -65,7 +64,6 @@ mooveo · veloom · SirPauls · WESEO · Progress · Durst Group · Rubner · Br
 
 ```
 email    hi@simon-mayrhofer.com
-web      simon-mayrhofer.com
 phone    +43 677 610 30795
 ```
 

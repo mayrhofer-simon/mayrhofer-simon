@@ -11,7 +11,7 @@ import os
 from pathlib import Path
 
 STATIC = os.getenv("STATIC") == "1"
-OUT    = Path("info-card.svg")
+OUT    = Path("simon-info-card.svg")
 
 ACCENT  = "#EAFF00"   # your brand yellow
 DIM     = "#8b949e"
@@ -25,23 +25,21 @@ FONT    = '"SF Mono","Fira Code",monospace'
 LINES = [
     ("title",  "simon@github"),
     ("sep",    "─" * 28),
-    ("kv",     ("os",        "design.engineer")),
-    ("kv",     ("location",  "graz, austria — 47.07°N")),
     ("kv",     ("role",      "design engineer · 0→1")),
-    ("blank",  ""),
+    ("kv",     ("location",  "graz, austria — 47.07°N")),
     ("kv",     ("now",       "mooveo — moove your way")),
-    ("kv",     ("also",      "veloom · simon-mayrhofer.com")),
     ("blank",  ""),
-    ("label",  "stack"),
-    ("plain",  "typescript · react · next.js · tailwind"),
-    ("plain",  "go · node.js · postgres · firebase"),
-    ("plain",  "figma · docker · php · wordpress"),
+    ("label",  "what i do"),
+    ("plain",  "design systems → shipped products"),
+    ("plain",  "figma to production in one pass"),
+    ("plain",  "brand identity · ui · frontend · backend"),
     ("blank",  ""),
     ("label",  "by the numbers"),
     ("plain",  "10+ yrs shipping  ·  5+ products live"),
     ("plain",  "10k+ bookings  ·  0 handoffs"),
     ("blank",  ""),
-    ("kv",     ("contact",   "hi@simon-mayrhofer.com")),
+    ("kv",     ("web",       "simon-mayrhofer.com")),
+    ("kv",     ("email",     "hi@simon-mayrhofer.com")),
 ]
 
 LINE_H   = 22
