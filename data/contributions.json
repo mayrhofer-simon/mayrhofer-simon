@@ -242,27 +242,27 @@
     },
     {
       "date": "2026-10-11",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-18",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-25",
-      "level": 2,
+      "level": 4,
       "count": 2
     },
     {
       "date": "2026-11-01",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-08",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
@@ -507,27 +507,27 @@
     },
     {
       "date": "2026-10-12",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-19",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-26",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-02",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-09",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
@@ -767,33 +767,33 @@
     },
     {
       "date": "2026-10-06",
-      "level": 2,
+      "level": 4,
       "count": 2
     },
     {
       "date": "2026-10-13",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-20",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-27",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-03",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-10",
       "level": 4,
-      "count": 6
+      "count": 7
     },
     {
       "date": "2025-11-12",
@@ -997,7 +997,7 @@
     },
     {
       "date": "2026-08-19",
-      "level": 2,
+      "level": 4,
       "count": 2
     },
     {
@@ -1032,28 +1032,33 @@
     },
     {
       "date": "2026-10-07",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-14",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-21",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-28",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-04",
-      "level": 1,
+      "level": 2,
       "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "level": 0,
+      "count": 0
     },
     {
       "date": "2025-11-13",
@@ -1292,22 +1297,22 @@
     },
     {
       "date": "2026-10-08",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-15",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-22",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-29",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
@@ -1552,27 +1557,27 @@
     },
     {
       "date": "2026-10-09",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-16",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-23",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-30",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-06",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
@@ -1812,36 +1817,36 @@
     },
     {
       "date": "2026-10-10",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-17",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-24",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-10-31",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-11-07",
-      "level": 1,
+      "level": 2,
       "count": 1
     }
   ],
   "stats": {
-    "total": 51,
-    "current_streak": 36,
+    "total": 52,
+    "current_streak": 0,
     "longest_streak": 36,
     "best_day": {
-      "date": "2026-11-05",
+      "date": "2026-11-10",
       "level": 4,
       "count": 7
     }
